@@ -10,4 +10,11 @@ public static class Kata {
             _ => $"{names[0]}, {names[1]} and {names.Length - 2} others like this"
         };
     }
+    
+    public static string LikesCleverVersion(string[] name)
+    {
+        string[] pattern = { "no one likes this", "{0} likes this", "{0} and {1} like this", "{0}, {1} and {2} like this", "{0}, {1} and {2} others like this" };
+
+        return name.Length < 4 ? string.Format(pattern[name.Length], name) : string.Format(pattern[4], name[0], name[1], name.Length - 2);
+    }
 }

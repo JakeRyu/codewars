@@ -14,4 +14,15 @@ public class SolutionTest {
         Assert.AreEqual("Alex, Jacob and 2 others like this", Kata.Likes(new string[] {"Alex", "Jacob", "Mark", "Max"}));
         Assert.AreEqual("Alex, Jacob and 3 others like this", Kata.Likes(new string[] {"Alex", "Jacob", "Mark", "Max", "Jake"}));
     }
+    
+    [Test, Description("It should return correct text")]
+    public void SampleTest2()
+    {
+        Assert.AreEqual("no one likes this", Kata.LikesCleverVersion(new string[0]));
+        Assert.AreEqual("Peter likes this", Kata.LikesCleverVersion(new string[] {"Peter"}));
+        Assert.AreEqual("Jacob and Alex like this", Kata.LikesCleverVersion(new string[] {"Jacob", "Alex"}));
+        Assert.AreEqual("Max, John and Mark like this", Kata.LikesCleverVersion(new string[] {"Max", "John", "Mark"}));
+        Assert.AreEqual("Alex, Jacob and 2 others like this", Kata.LikesCleverVersion(new string[] {"Alex", "Jacob", "Mark", "Max"}));
+        Assert.AreEqual("Alex, Jacob and 3 others like this", Kata.LikesCleverVersion(new string[] {"Alex", "Jacob", "Mark", "Max", "Jake"}));
+    }
 }
