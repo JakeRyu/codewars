@@ -4,5 +4,6 @@
     &lt;TestId&gt;NUnit3x::A0A5B160-9079-4DE8-B0FD-12D9D957C519::net6.0::codewars.who_likes_it.SolutionTest&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::A0A5B160-9079-4DE8-B0FD-12D9D957C519::net6.0::codewars.jaden_casing_strings.JadenCaseTest.FixedTest&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::A0A5B160-9079-4DE8-B0FD-12D9D957C519::net6.0::codewars.jaden_casing_strings.JadenCaseTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A0A5B160-9079-4DE8-B0FD-12D9D957C519::net6.0::codewars.multiple_of_3_or_5.Tests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
