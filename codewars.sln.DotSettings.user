@@ -1,9 +1,10 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0671f465_002D0821_002D4a0a_002D9fd2_002D715baf8e941d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SampleTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::A0A5B160-9079-4DE8-B0FD-12D9D957C519::net6.0::codewars.who_likes_it.SolutionTest&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::A0A5B160-9079-4DE8-B0FD-12D9D957C519::net6.0::codewars.jaden_casing_strings.JadenCaseTest.FixedTest&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::A0A5B160-9079-4DE8-B0FD-12D9D957C519::net6.0::codewars.jaden_casing_strings.JadenCaseTest&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::A0A5B160-9079-4DE8-B0FD-12D9D957C519::net6.0::codewars.multiple_of_3_or_5.Tests&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0671f465_002D0821_002D4a0a_002D9fd2_002D715baf8e941d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SampleTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::A0A5B160-9079-4DE8-B0FD-12D9D957C519::net6.0::codewars.who_likes_it.SolutionTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::A0A5B160-9079-4DE8-B0FD-12D9D957C519::net6.0::codewars.jaden_casing_strings.JadenCaseTest.FixedTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::A0A5B160-9079-4DE8-B0FD-12D9D957C519::net6.0::codewars.jaden_casing_strings.JadenCaseTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::A0A5B160-9079-4DE8-B0FD-12D9D957C519::net6.0::codewars.multiple_of_3_or_5.Tests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::A0A5B160-9079-4DE8-B0FD-12D9D957C519::net6.0::codewars.convert_string_to_camel_case.KataTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
