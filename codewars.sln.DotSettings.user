@@ -5,5 +5,6 @@
     &lt;TestId&gt;NUnit3x::A0A5B160-9079-4DE8-B0FD-12D9D957C519::net6.0::codewars.roman_numerals_encoder.RomanConvertTests.TestMostVotedSolution&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::A0A5B160-9079-4DE8-B0FD-12D9D957C519::net6.0::codewars.first_non_repeating_character.KataTest.BasicTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::A0A5B160-9079-4DE8-B0FD-12D9D957C519::net6.0::codewars.first_non_repeating_character.KataTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A0A5B160-9079-4DE8-B0FD-12D9D957C519::net6.0::codewars.create_phone_number.Tests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
